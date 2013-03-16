@@ -102,9 +102,9 @@
     <Resource Include="arrow.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="light-background.PNG">
+    <Resource Include="lightbackground.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
+    </Resource>
     <Resource Include="wallpaper.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />

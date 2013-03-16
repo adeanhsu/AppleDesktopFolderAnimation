@@ -34,7 +34,7 @@
                 <Setter.Value>
                     <ImageBrush AlignmentX="Center"
                                 AlignmentY="Center"
-                                ImageSource="light-background.png"
+                                ImageSource="lightbackground.png"
                                 Opacity="1"
                                 Stretch="UniformToFill" />
                 </Setter.Value>

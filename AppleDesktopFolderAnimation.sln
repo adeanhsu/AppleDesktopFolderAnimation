@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleDesktopFolderAnimation", "AppleDesktopFolderAnimation\AppleDesktopFolderAnimation.csproj", "{a5561918-00a6-4e67-a3ed-68af8a302a51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleDesktopFolderAnimation", "AppleDesktopFolderAnimation\AppleDesktopFolderAnimation.csproj", "{A5561918-00A6-4E67-A3ED-68AF8A302A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleDesktopFolderAnimation.Web", "AppleDesktopFolderAnimation.Web\AppleDesktopFolderAnimation.Web.csproj", "{E7964198-FAA0-4DE5-9723-7C0A6A4322A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,12 @@ Global
 		{A5561918-00A6-4E67-A3ED-68AF8A302A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5561918-00A6-4E67-A3ED-68AF8A302A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5561918-00A6-4E67-A3ED-68AF8A302A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7964198-FAA0-4DE5-9723-7C0A6A4322A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7964198-FAA0-4DE5-9723-7C0A6A4322A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7964198-FAA0-4DE5-9723-7C0A6A4322A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7964198-FAA0-4DE5-9723-7C0A6A4322A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
